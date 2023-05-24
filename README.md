@@ -57,6 +57,21 @@
 
 <br>
 
+## Pagespeed Insights Score:
+  
+- ||
+  | :-----: |
+  |  <b>Overall score 98.2% for Both Mobile & Desktop</b><br>(Below score is for mobile devices) |
+  | |
+  | <img src='./images/pagespeed-insights-score.svg' alt='Scoreboard'> |
+  | |
+  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-sunnyside-agency-landing-page/wmmfau2ycs?form_factor=desktop) to get live score |
+  ||
+
+<br>
+
+
+
 
 ## The Challenge
 
