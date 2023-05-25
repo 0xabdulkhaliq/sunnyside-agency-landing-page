@@ -483,6 +483,8 @@ footer {
 .footer__home-link {
   width: 10.5rem;
   margin: 2rem 0 0 -1.1rem;
+  filter: invert(38%) sepia(68%) saturate(342%) hue-rotate(118deg)
+  brightness(58%) contrast(92%);
 }
 
 [aria-expanded="true"] + .nav__menu-section {
@@ -703,11 +705,6 @@ a {
 
   .footer__socials {
     margin-top: 3rem;
-  }
-
-  .footer__home-link {
-    filter: invert(38%) sepia(68%) saturate(342%) hue-rotate(118deg)
-      brightness(58%) contrast(92%);
   }
 
   .attribution {
