@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted :hourglass_flowing_sand:](#link) |
+  | Solution URL: | [SUNNYSIDE LANDING PAGE 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 - ES6 ]](https://www.frontendmentor.io/solutions/sunnyside-landing-page-accessible-bem-vanilla-css3-es6-FrM6b1vi3w) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/sunnyside-agency-landing-page/](https://0xabdulkhalid.github.io/sunnyside-agency-landing-page/) |
   |||
 
